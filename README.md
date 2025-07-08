@@ -1,6 +1,6 @@
 # Email Send MCP using [aigeon.ai](https://www.aigeon.ai) API
 
-## email-mcp is hosted and certified by [MCPHub](https://mcphub.com/mcp-servers/henroger/email-mcp)
+[![MCPHub](https://mcphub.com/api/mcp-servers/henroger/email-mcp/badge)](https://mcphub.com/mcp-servers/henroger/email-mcp)
 
 This project uses the [aigeon.ai](https://www.aigeon.ai) API to send emails and can be integrated as an MCP tool in MCP Clients like [Cursor](https://cursor.sh) and [Claude](https://claude.ai).
 
